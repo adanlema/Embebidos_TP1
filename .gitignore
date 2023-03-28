@@ -1,0 +1,5 @@
+# Archivos .html
+*.html
+
+#Archivos carpeta output
+output/**
